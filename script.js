@@ -1,0 +1,5 @@
+
+
+
+let area = [];
+let salario = [];
